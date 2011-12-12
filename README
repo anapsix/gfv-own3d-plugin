@@ -1,0 +1,11 @@
+## DESCRIPTIONS ##
+# Own3d.pm file is a plugin for get_flash_videos project
+# and based on Generic.pm from gfv
+# GFV Home: http://code.google.com/p/get-flash-videos/
+# 
+# It currently doesn't work with LIVE streams from Own3d.tv
+# ONLY non-LIVE streams are supported at the moment
+#
+## TO INSTALL ##
+# simply place Own3d.pm into your gfv plugin directory
+# which om most systems will be ~/.get_flash_videos/plugins/
