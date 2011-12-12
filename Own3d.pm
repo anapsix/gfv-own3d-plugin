@@ -14,7 +14,7 @@ my $OWN3D_CDN = 'vodcdn.ec.own3d.tv';
 my $OWN3D_AUTH = '?7418afca70ba1dc09fb6b6e37c287072169117b285d7dfcce5f8d80b435a3dd9014c&ec_seek=0&ec_rate=350&ec_prebuf=5';
 
 our @update_urls = (
-  'http://github.com/anapsix/get_flash_videos-OWN3D-plugins/Own3d.pm'
+  'https://raw.github.com/anapsix/gfv-own3d-plugin/master/Own3d.pm'
 );
 
 
